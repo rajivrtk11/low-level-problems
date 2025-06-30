@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dc6840d-0e96-4b59-8f41-3f3e26be9cd0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LowLevelDesign/LLDCricbuzz/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Jump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Jump.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Player.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2zExSX7DI59z8agVrNTc6sMxLQJ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="interviewcodingpractise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="interviewcodingpractise" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dc6840d-0e96-4b59-8f41-3f3e26be9cd0" name="Changes" comment="" />
+      <created>1751310033264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751310033264</updated>
+    </task>
+    <servers />
+  </component>
+</project>
