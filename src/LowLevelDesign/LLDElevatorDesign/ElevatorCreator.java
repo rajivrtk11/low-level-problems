@@ -1,4 +1,4 @@
-package LowLevelDesign.LLDElevatorDesign;
+package LLDElevatorDesign;
 
 import java.util.ArrayList;
 import java.util.List;

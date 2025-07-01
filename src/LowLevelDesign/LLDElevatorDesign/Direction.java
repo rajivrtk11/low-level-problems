@@ -1,4 +1,4 @@
-package LowLevelDesign.LLDElevatorDesign;
+package LLDElevatorDesign;
 
 public enum Direction {
     UP,

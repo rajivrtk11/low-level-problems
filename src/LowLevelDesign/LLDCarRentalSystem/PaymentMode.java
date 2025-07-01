@@ -1,4 +1,4 @@
-package LowLevelDesign.LLDCarRentalSystem;
+package LLDCarRentalSystem;
 
 public enum PaymentMode {
 

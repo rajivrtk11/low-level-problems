@@ -1,4 +1,4 @@
-package LowLevelDesign.LLDCarRentalSystem;
+package LLDCarRentalSystem;
 
 
 import java.util.List;

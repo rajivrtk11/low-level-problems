@@ -1,6 +1,6 @@
-package LowLevelDesign.LLDCarRentalSystem;
+package LLDCarRentalSystem;
 
-import LowLevelDesign.LLDCarRentalSystem.Product.Vehicle;
+import LLDCarRentalSystem.Product.Vehicle;
 
 import java.util.List;
 
