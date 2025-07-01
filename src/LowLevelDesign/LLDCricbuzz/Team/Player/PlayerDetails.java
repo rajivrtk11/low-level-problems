@@ -1,7 +1,7 @@
-package LowLevelDesign.LLDCricbuzz.Team.Player;
+package LLDCricbuzz.Team.Player;
 
-import LowLevelDesign.LLDCricbuzz.Team.Player.Score.BattingScoreCard;
-import LowLevelDesign.LLDCricbuzz.Team.Player.Score.BowlingScoreCard;
+import LLDCricbuzz.Team.Player.Score.BattingScoreCard;
+import LLDCricbuzz.Team.Player.Score.BowlingScoreCard;
 
 public class PlayerDetails {
 

@@ -1,8 +1,8 @@
-package LowLevelDesign.LLDCricbuzz.ScoreUpdater;
+package LLDCricbuzz.ScoreUpdater;
 
-import LowLevelDesign.LLDCricbuzz.Inning.BallDetails;
-import LowLevelDesign.LLDCricbuzz.Inning.BallType;
-import LowLevelDesign.LLDCricbuzz.Inning.RunType;
+import LLDCricbuzz.Inning.BallDetails;
+import LLDCricbuzz.Inning.BallType;
+import LLDCricbuzz.Inning.RunType;
 
 public class BowlingScoreUpdater implements ScoreUpdaterObserver {
 

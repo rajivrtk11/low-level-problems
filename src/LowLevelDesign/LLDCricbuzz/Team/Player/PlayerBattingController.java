@@ -1,4 +1,4 @@
-package LowLevelDesign.LLDCricbuzz.Team.Player;
+package LLDCricbuzz.Team.Player;
 
 import java.util.LinkedList;
 import java.util.Queue;

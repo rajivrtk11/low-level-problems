@@ -1,13 +1,13 @@
-package LowLevelDesign.LLDCricbuzz.Team;
+package LLDCricbuzz.Team;
 
 
 
 import java.util.List;
 import java.util.Queue;
 
-import LowLevelDesign.LLDCricbuzz.Team.Player.PlayerBattingController;
-import LowLevelDesign.LLDCricbuzz.Team.Player.PlayerBowlingController;
-import LowLevelDesign.LLDCricbuzz.Team.Player.PlayerDetails;
+import LLDCricbuzz.Team.Player.PlayerBattingController;
+import LLDCricbuzz.Team.Player.PlayerBowlingController;
+import LLDCricbuzz.Team.Player.PlayerDetails;
 
 public class Team {
     public String teamName;

@@ -1,4 +1,4 @@
-package LowLevelDesign.LLDCricbuzz.Team.Player.Score;
+package LLDCricbuzz.Team.Player.Score;
 
 public class BowlingScoreCard {
     public int totalOversCount;

@@ -1,7 +1,7 @@
-package LowLevelDesign.DesignVendingMachine;
+package DesignVendingMachine;
 
-import LowLevelDesign.DesignVendingMachine.VendingStates.State;
-import LowLevelDesign.DesignVendingMachine.VendingStates.impl.IdleState;
+import DesignVendingMachine.VendingStates.State;
+import DesignVendingMachine.VendingStates.impl.IdleState;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,6 @@
-package LowLevelDesign.DesignVendingMachine;
+package DesignVendingMachine;
 
-import LowLevelDesign.DesignVendingMachine.VendingStates.State;
+import DesignVendingMachine.VendingStates.State;
 
 
 public class Main {

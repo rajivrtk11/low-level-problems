@@ -1,10 +1,10 @@
-package LowLevelDesign.DesignVendingMachine.VendingStates.impl;
+package DesignVendingMachine.VendingStates.impl;
 
-import LowLevelDesign.DesignVendingMachine.Coin;
-import LowLevelDesign.DesignVendingMachine.Item;
-import LowLevelDesign.DesignVendingMachine.VendingMachine;
-import LowLevelDesign.DesignVendingMachine.VendingStates.State;
-import LowLevelDesign.DesignVendingMachine.VendingMachine;
+import DesignVendingMachine.Coin;
+import DesignVendingMachine.Item;
+import DesignVendingMachine.VendingMachine;
+import DesignVendingMachine.VendingStates.State;
+import DesignVendingMachine.VendingMachine;
 
 import java.util.List;
 

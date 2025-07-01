@@ -1,4 +1,4 @@
-package LowLevelDesign.LLDCricbuzz.Inning;
+package LLDCricbuzz.Inning;
 
 public enum RunType {
 
