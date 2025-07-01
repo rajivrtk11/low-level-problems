@@ -1,4 +1,4 @@
-package LowLevelDesign.DesignPatterns.AdapterDesignPattern.Adaptee;
+package DesignPatterns.AdapterDesignPattern.Adaptee;
 
 public class WeightMachineForBabies implements WeightMachine{
     @Override

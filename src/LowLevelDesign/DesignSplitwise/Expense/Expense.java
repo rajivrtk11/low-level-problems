@@ -1,7 +1,7 @@
-package LowLevelDesign.DesignSplitwise.Expense;
+package DesignSplitwise.Expense;
 
-import LowLevelDesign.DesignSplitwise.Expense.Split.Split;
-import LowLevelDesign.DesignSplitwise.User.User;
+import DesignSplitwise.Expense.Split.Split;
+import DesignSplitwise.User.User;
 
 import java.util.ArrayList;
 import java.util.List;

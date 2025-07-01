@@ -1,4 +1,4 @@
-package LowLevelDesign.DesignPatterns.CompositeDesignPattern.ProblemStatement;
+package DesignPatterns.CompositeDesignPattern.ProblemStatement;
 
 public class File {
 

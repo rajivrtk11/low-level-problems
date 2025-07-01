@@ -1,4 +1,4 @@
-package LowLevelDesign.DesignSplitwise.Expense.Split;
+package DesignSplitwise.Expense.Split;
 
 import java.util.List;
 

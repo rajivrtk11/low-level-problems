@@ -1,4 +1,4 @@
-package LowLevelDesign.DesignPatterns.LLDChainResponsibilityDesignPattern;
+package DesignPatterns.LLDChainResponsibilityDesignPattern;
 
 public class InfoLogProcessor extends LogProcessor{
 

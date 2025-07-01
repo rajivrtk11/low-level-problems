@@ -1,4 +1,4 @@
-package LowLevelDesign.DesignPatterns.CompositeDesignPattern.Solution2WithCompositeDesign;
+package DesignPatterns.CompositeDesignPattern.Solution2WithCompositeDesign;
 
 public class Number implements ArithmeticExpression{
     int value;

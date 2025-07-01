@@ -1,8 +1,8 @@
-package LowLevelDesign.DesignPatterns.AdapterDesignPattern.Client;
+package DesignPatterns.AdapterDesignPattern.Client;
 
-import LowLevelDesign.DesignPatterns.AdapterDesignPattern.Adaptee.WeightMachineForBabies;
-import LowLevelDesign.DesignPatterns.AdapterDesignPattern.Adapter.WeightMachineAdapter;
-import LowLevelDesign.DesignPatterns.AdapterDesignPattern.Adapter.WeightMachineAdapterImpl;
+import DesignPatterns.AdapterDesignPattern.Adaptee.WeightMachineForBabies;
+import DesignPatterns.AdapterDesignPattern.Adapter.WeightMachineAdapter;
+import DesignPatterns.AdapterDesignPattern.Adapter.WeightMachineAdapterImpl;
 
 public class Main {
 

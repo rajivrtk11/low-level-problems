@@ -1,4 +1,4 @@
-package LowLevelDesign.DesignPatterns.FlyWeightPattern.wordProcessor;
+package DesignPatterns.FlyWeightPattern.wordProcessor;
 
 public interface ILetter {
 

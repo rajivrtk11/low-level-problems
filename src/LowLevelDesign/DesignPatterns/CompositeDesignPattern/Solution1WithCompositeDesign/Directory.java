@@ -1,4 +1,4 @@
-package LowLevelDesign.DesignPatterns.CompositeDesignPattern.Solution1WithCompositeDesign;
+package DesignPatterns.CompositeDesignPattern.Solution1WithCompositeDesign;
 
 import java.util.ArrayList;
 import java.util.List;

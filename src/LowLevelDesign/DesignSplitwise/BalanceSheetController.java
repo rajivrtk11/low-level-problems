@@ -1,7 +1,7 @@
-package LowLevelDesign.DesignSplitwise;
+package DesignSplitwise;
 
-import LowLevelDesign.DesignSplitwise.Expense.Split.Split;
-import LowLevelDesign.DesignSplitwise.User.User;
+import DesignSplitwise.Expense.Split.Split;
+import DesignSplitwise.User.User;
 
 import java.util.List;
 import java.util.Map;

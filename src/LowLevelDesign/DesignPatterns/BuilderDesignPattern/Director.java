@@ -1,4 +1,4 @@
-package LowLevelDesign.DesignPatterns.BuilderDesignPattern;
+package DesignPatterns.BuilderDesignPattern;
 
 public class Director {
 

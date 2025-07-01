@@ -1,4 +1,4 @@
-package LowLevelDesign.DesignPatterns.FlyWeightPattern;
+package DesignPatterns.FlyWeightPattern;
 
 public class Sprites {
 }

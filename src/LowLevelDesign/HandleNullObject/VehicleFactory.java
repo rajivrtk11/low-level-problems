@@ -1,4 +1,4 @@
-package LowLevelDesign.HandleNullObject;
+package HandleNullObject;
 
 public class VehicleFactory {
 
